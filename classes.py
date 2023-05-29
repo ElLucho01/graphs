@@ -1,5 +1,7 @@
 import numpy as np
 
+#Declaración de los distintos tipos de grafos, cada uno contiene al menos la función de matriz adjacente y lista adjacente
+
 class grafo_simple():
     def __init__(self, edge):
         tmp=[]

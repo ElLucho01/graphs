@@ -1,3 +1,4 @@
+#Importamos el archivo classes, que contiene los distintos tipos de grafos
 import classes as clase
 #Inicialización de las aristas
 E=[('a','b'),('c','a'),('c','b'),('b','d'),('a','b')]
